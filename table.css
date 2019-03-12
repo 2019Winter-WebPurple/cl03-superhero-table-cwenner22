@@ -1,0 +1,26 @@
+/*
+*Name
+*Due Date
+*Tables
+*/
+
+/* The universal selector*?
+
+* {
+} 
+/* Body properties here */
+
+body {
+
+}
+/*Makes the border on the table blue*/
+table, td, th { border: 1px solid blue; }
+
+/* Makes the table space bigger and easier to read*/
+table { border-collapse : collapse; }
+
+
+/* This changes the background color on thead and tfoot*/
+thead { background-color: lime; }
+
+tfoot { background-color: deepskyblue; }
